@@ -18,9 +18,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "br.edu.fatecitu.hamburgueria",
+      "buildNumber": "1.0.0"
     },
     "android": {
+      "package": "br.edu.fatecitu.hamburgueria",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
